@@ -1,0 +1,14 @@
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\bin\Debug\netcoreapp2.1\EncontraCanilApi.deps.json
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\bin\Debug\netcoreapp2.1\EncontraCanilApi.runtimeconfig.json
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\bin\Debug\netcoreapp2.1\EncontraCanilApi.runtimeconfig.dev.json
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\bin\Debug\netcoreapp2.1\EncontraCanilApi.dll
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\bin\Debug\netcoreapp2.1\EncontraCanilApi.pdb
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.csprojAssemblyReference.cache
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.RazorAssemblyInfo.cache
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.RazorAssemblyInfo.cs
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.AssemblyInfoInputs.cache
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.AssemblyInfo.cs
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.RazorTargetAssemblyInfo.cache
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.dll
+D:\Documentos\Projetos\EncontraCanilApi\EncontraCanilApi\obj\Debug\netcoreapp2.1\EncontraCanilApi.pdb
