@@ -29,12 +29,5 @@ namespace EncontraCanilApi.Controllers
 
             return new OkObjectResult(new { message = "200 OK", saida });
         }
-
-        //[HttpGet]
-        //[Route("teste")]
-        //public IActionResult Teste()
-        //{
-        //    return new OkObjectResult(new { message = "200 OK" });
-        //}
     }
 }
